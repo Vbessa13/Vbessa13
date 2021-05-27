@@ -22,7 +22,7 @@ Badge	URL
 	https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
 👨👩 Social 🔝
 Badge	URL
-        <img src="{https://www.facebook.com/vitor.santini1}" />
+        	![image]({https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white})
 	
 	
 👩‍💻 Languages 🔝

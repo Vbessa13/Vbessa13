@@ -1,7 +1,3 @@
-Welcome! Badges 4 README.md Profile
-Improve your README.md profile with these amazing badges. See a sample here
-
-How to use?
 Get a URL
 Create a img tag <img src="{BadgeURLHere}" /> or ![image]({BadgeURLHere})
 Copy and paste on your profile
@@ -48,7 +44,7 @@ Badge	URL
 	https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
 👨👩 Social 🔝
 Badge	URL
-	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+	![image]({https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white})
 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white

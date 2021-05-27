@@ -2,29 +2,7 @@ Get a URL
 Create a img tag <img src="{BadgeURLHere}" /> or ![image]({BadgeURLHere})
 Copy and paste on your profile
 Menu
-📱 Contact
-🤜🤛 Group
-👨 Social
-👩‍💻 Languages
-👩‍💻 IDE
-⚡ Database
-📱 Mobile Frameworks
-🚀 Frameworks
-☁ Cloud
-📊 Analytics
-💻 OS
-💻 Workspace Spec
-🛒 Store
-👨‍💻 Office
-🖍 Design
-🎮 Games
-📝 Blog
-🎞 Streaming
-💲 Cryptocurrency
-❤ Funding
-🎶 Sound
-🍔🍕 Food
-✏ Contribute
+
 📱 Contact 🔝
 Badge	URL
 	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
@@ -44,10 +22,8 @@ Badge	URL
 	https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
 👨👩 Social 🔝
 Badge	URL
-	![image]({https://www.facebook.com/vitor.santini1})
-	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-	![image]({https://www.linkedin.com/in/vitor-santini-2089221a5/})
+        <img src="{https://www.facebook.com/vitor.santini1}" />
+	
 	
 👩‍💻 Languages 🔝
 Badge	URL

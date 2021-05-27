@@ -1,3 +1,3 @@
 # Languages and tools:
- ![c](https://user-images.githubusercontent.com/70181879/119880174-59a8b300-bf02-11eb-9199-9ce9cb393842.jpg)  ![java](https://user-images.githubusercontent.com/70181879/119880305-7e9d2600-bf02-11eb-94e8-1be2a9f3e187.jpg)
-
+![c](https://user-images.githubusercontent.com/70181879/119881853-2109d900-bf04-11eb-8e0b-5f5859092b0c.png)
+![java](https://user-images.githubusercontent.com/70181879/119881860-223b0600-bf04-11eb-820c-0f179070f225.png)

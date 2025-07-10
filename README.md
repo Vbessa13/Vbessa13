@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Vitor Santini Bessa, tenho 25 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na UFU (Universidade Federal de Uberlândia). Sou entusiasta da tecnologia, e estou buscando um estágio0 na área de desenvolvimento.
+Me chamo Vitor Santini Bessa, tenho 25 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na UFU (Universidade Federal de Uberlândia). Sou entusiasta da tecnologia, e estou buscando um estágio na área de desenvolvimento.
 
 ---
 

@@ -2,12 +2,20 @@
 
 **`Desenvolvedor`**
 
-Me chamo Vitor Santini Bessa, tenho 25 anos e sou natural de Goiás. Atualmente, estou cursando Ciência da Computação na UFU (Universidade Federal de Uberlândia). Sou entusiasta da tecnologia, e estou buscando um estágio na área de desenvolvimento.
+Me chamo Vitor Santini Bessa, tenho 25 anos e moro em Uberlândia-MG. Atualmente, estou cursando Ciência da Computação na UFU (Universidade Federal de Uberlândia). Sou entusiasta da tecnologia, e estou buscando um estágio na área de desenvolvimento.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -117,6 +125,14 @@ Me chamo Vitor Santini Bessa, tenho 25 anos e sou natural de Goiás. Atualmente,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     align="left" 

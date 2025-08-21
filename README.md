@@ -161,7 +161,7 @@ Me chamo Vitor Santini Bessa, tenho 25 anos e moro em Uberlândia-MG. Atualmente
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbessa13&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" 
+      src="" 
   />
 
 </p>
